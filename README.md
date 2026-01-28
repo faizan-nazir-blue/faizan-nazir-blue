@@ -59,11 +59,11 @@ Learning Blue Team operations & real-world SOC skills
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=faiizan-nazir-blue&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=faizan-nazir-blue&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faiizan-nazir-blue&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-nazir-blue&theme=tokyonight" />
 </p>
 
 ---
