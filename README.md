@@ -1,6 +1,9 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Faizan Nazir</h1>
 <h3 align="center">SOC Analyst Learner | Cyber Security Student</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faiizan-nazir-blue&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 <p align="center">
 Learning Blue Team operations & real-world SOC skills
