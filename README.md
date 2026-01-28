@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Faizan Nazir</h1>
 <h3 align="center">SOC Analyst Learner | Cyber Security Student</h3>
 <p align="center">
