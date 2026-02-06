@@ -79,7 +79,7 @@ Commands, investigation techniques, and real-world use cases relevant to securit
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=faizan-nazir-blue&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=faizan-nazir-blue&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
