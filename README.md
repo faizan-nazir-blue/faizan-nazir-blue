@@ -90,6 +90,7 @@ Commands, investigation techniques, and real-world use cases relevant to securit
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-nazir-blue&theme=tokyo-night&hide_border=true"/>
 </p>
 
+
 ---
 
 ## 💬 Analyst Mindset
