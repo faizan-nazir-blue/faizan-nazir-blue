@@ -45,16 +45,20 @@ I document my learning publicly to demonstrate consistency, methodology, and ana
 
 ---
 
-## 📂 Learning Projects
+## 📂 Investigation & Analysis Work
 
-### SOC Analyst Notes
-Structured notes covering SOC workflows, detection logic, and investigation thinking.
+### SOC Investigation Cases
+Documented alert triage scenarios including suspicious authentication activity, malicious indicators, and behavior validation.  
+Each case follows analyst workflow: context → evidence → analysis → conclusion → mitigation.
 
-### Networking Fundamentals (SOC Perspective)
-Networking concepts explained from attacker vs defender mindset.
+### Network Traffic Analysis
+Packet-level inspection and protocol behavior interpretation to differentiate legitimate vs anomalous communication patterns.
 
-### Linux for SOC
-Commands, investigation techniques, and real-world use cases relevant to security monitoring.
+### Linux Host Analysis
+System activity review, user behavior tracing, and persistence checks using native Linux utilities and log sources.
+
+### Detection & Documentation Notes
+Structured reference material used during investigations covering patterns, indicators, and analysis methodology.
 
 ---
 
