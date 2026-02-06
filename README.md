@@ -1,92 +1,95 @@
-
-<h1 align="center">Hi 👋, I'm Faizan Nazir</h1>
-<h3 align="center">SOC Analyst Learner | Cyber Security Student</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faiizan-nazir-blue&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
+<h1 align="center">Faizan Nazir</h1>
+<h3 align="center">SOC Analyst (Blue Team) | Cybersecurity Student</h3>
 
 <p align="center">
-Learning Blue Team operations & real-world SOC skills
+  <img src="https://komarev.com/ghpvc/?username=faizan-nazir-blue&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+<p align="center">
+Focused on Detection • Log Analysis • Incident Response • SIEM Fundamentals
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Professional Summary
 
-- 🔐 **Currently learning:** SOC Analyst L1 (Blue Team fundamentals)
-- 🎯 **Goal:** To become a job-ready SOC Analyst with strong hands-on detection and incident response skills
-- 📚 **What I share on GitHub:** SOC notes, Medium articles, structured learning resources
-- 💼 **Interested in:** SOC Operations, Blue Teaming, Log Analysis, Incident Response
-- 🌐 **Progress:** Networking phase completed, currently learning Linux
-- 🧠 **Programming knowledge:** Python, Java, C
+Aspiring Security Operations Center (SOC) Analyst with structured hands-on learning in networking, Linux, and security monitoring.  
+Currently building practical detection and investigation skills aligned with real SOC workflows.
+
+I document my learning publicly to demonstrate consistency, methodology, and analyst thinking process.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🎯 Current Focus
+- SOC Analyst Level 1 Skill Development
+- Linux System Investigation
+- Network Traffic Analysis
+- Log Analysis & Detection Thinking
+- Blue Team Methodology
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,java,c,git,github,wireshark" />
+---
+
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|--------|------|
+| Operating Systems | Linux |
+| Networking | TCP/IP, DNS, HTTP, Packet Flow |
+| Programming | Python, Java, C |
+| Security Concepts | SIEM Basics, Log Analysis, Detection Mindset |
+| Tools | Git, Wireshark, Bash |
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,java,c,git,github,wireshark" />
 </p>
 
 ---
 
-## 📌 Highlighted Projects
+## 📂 Learning Projects
 
-- 🔹 **SOC Analyst Notes**  
-  Daily structured learning notes focused on SOC Analyst L1 concepts
+### SOC Analyst Notes
+Structured notes covering SOC workflows, detection logic, and investigation thinking.
 
-- 🔹 **Networking Fundamentals**  
-  Networking from zero level with a SOC analyst perspective
+### Networking Fundamentals (SOC Perspective)
+Networking concepts explained from attacker vs defender mindset.
 
-- 🔹 **Linux for SOC**  
-  Linux commands, labs, and real-world SOC use cases
+### Linux for SOC
+Commands, investigation techniques, and real-world use cases relevant to security monitoring.
 
 ---
 
-## 🌐 Where to Find Me
+## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/faizan-nazir-96b7a4383" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<p>
+<a href="https://www.linkedin.com/in/faizan-nazir-96b7a4383">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://www.instagram.com/_faixu_here/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" />
+
+<a href="https://www.instagram.com/_faixu_here/">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-<a href="https://medium.com/@faizan.nazir" target="_blank">
-<img src="https://skillicons.dev/icons?i=medium" />
+
+<a href="https://medium.com/@faizan.nazir">
+<img src="https://cdn.simpleicons.org/medium/FFFFFF" height="40"/>
 </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=faizan-nazir-blue&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=faizan-nazir-blue&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-nazir-blue&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=faizan-nazir-blue&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 💬 Quote
+## 💬 Analyst Mindset
 
-> *"Consistency in learning beats motivation in cybersecurity."*
+> Consistency in learning builds detection intuition.
+> Skills in cybersecurity come from repetition, not motivation.
 
-
-<!--
-**faizan-nazir-blue/faizan-nazir-blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
