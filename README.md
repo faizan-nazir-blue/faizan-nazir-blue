@@ -1,6 +1,9 @@
 <h1 align="center">Faizan Nazir</h1>
 <h3 align="center">SOC Analyst (Blue Team) | Cybersecurity Student</h3>
 
+
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faizan-nazir-blue&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
