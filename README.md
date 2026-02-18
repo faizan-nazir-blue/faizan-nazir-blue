@@ -13,6 +13,7 @@ Focused on Detection • Log Analysis • Incident Response • SIEM Fundamental
 
 ## 🧑‍💻 Professional Summary
 
+
 Aspiring Security Operations Center (SOC) Analyst with structured hands-on learning in networking, Linux, and security monitoring.  
 Currently building practical detection and investigation skills aligned with real SOC workflows.
 
