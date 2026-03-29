@@ -20,7 +20,7 @@ I document my learning publicly to demonstrate consistency, methodology, and ana
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus : 
 - SOC Analyst Level 1 Skill Development
 - Linux System Investigation
 - Network Traffic Analysis
