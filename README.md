@@ -1,4 +1,4 @@
-<h1 align="center">Faizan Nazir </h1>
+<h1 align="center">Faizan Nazir Dar </h1>
 <h3 align="center">SOC Analyst (Blue Team) | Cybersecurity Student</h3>
 
 <p align="center">
