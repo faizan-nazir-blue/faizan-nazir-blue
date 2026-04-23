@@ -98,6 +98,7 @@ Structured reference material used during investigations covering patterns, indi
 
 ---
 
+
 ## 💬 Analyst Mindset
 
 > Consistency in learning builds detection intuition.
