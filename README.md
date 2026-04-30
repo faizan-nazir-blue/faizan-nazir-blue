@@ -143,5 +143,5 @@ To work as a SOC Analyst where I can apply detection thinking, log analysis, and
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/faizan-nazir-blue/faizan-nazir-blue/blob/output/github-snake.svg)
+![snake gif](https://raw.githubusercontent.com/faizan-nazir-blue/faizan-nazir-blue/output/github-snake.svg)
 
