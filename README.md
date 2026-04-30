@@ -6,10 +6,36 @@
 </p>
 
 <p align="center">
-Focused on Detection • Log Analysis • Incident Response • SIEM Fundamentals
+🟣 Detection Engineering • Log Analysis • Incident Response • SIEM Foundations
 </p>
 
 ---
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-nazir-blue&theme=react-dark&color=bb86fc&line=bb86fc&point=bb86fc" />
+</p>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/faizan-nazir-blue/faizan-nazir-blue/blob/output/github-snake.svg" />
+</p>
+---
+
+## 🧠 SOC Approach
+
+- Alert → Validate → Investigate → Correlate → Conclude → Respond
+- Focus on reducing false positives
+- Emphasis on understanding attacker behavior over tool dependency
+- Continuous improvement through case-based learning
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=SOC+Analyst+Journey;Blue+Team+Mindset;Detection+Over+Assumption;Learning+Every+Day&center=true&color=bb86fc&width=500&height=50">
+</p>
 
 ## 🧑‍💻 Professional Summary
 
@@ -42,7 +68,23 @@ I document my learning publicly to demonstrate consistency, methodology, and ana
 <p>
 <img src="https://skillicons.dev/icons?i=linux,bash,python,java,c,git,github,wireshark" />
 </p>
+---
 
+## 🚀 Featured Projects
+
+### 🔍 Phishing URL Detection Tool
+- Detects malicious URLs using pattern & logic-based analysis
+- Focus on real-world detection mindset instead of just accuracy
+- Tech: Python
+
+### 📊 SOC Investigation Lab
+- Simulated alert triage scenarios
+- Includes: suspicious login, DNS anomaly, brute force patterns
+- Structured analysis approach (evidence → reasoning → conclusion)
+
+### 🌐 Networking & DNS Analysis Notes
+- Deep dive into DNS, IP, packet flow
+- Includes investigation mindset for SOC analysts
 ---
 
 ## 📂 Investigation & Analysis Work
@@ -61,7 +103,18 @@ System activity review, user behavior tracing, and persistence checks using nati
 Structured reference material used during investigations covering patterns, indicators, and analysis methodology.
 
 ---
+---
 
+## 📅 Learning Timeline
+
+- Day 1: Networking Basics (Data Flow, LAN/WAN, Communication)
+- Day 2: IP Addressing, DNS, nslookup, ping, traceroute
+- Day 3: Ongoing SOC-focused learning (logs, detection, investigation)
+---
+
+## 🎯 Career Objective
+
+To work as a SOC Analyst where I can apply detection thinking, log analysis, and investigation skills to identify and respond to real-world threats.
 ## 🌐 Connect With Me
 
 <p>
