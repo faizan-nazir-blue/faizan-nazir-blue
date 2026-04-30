@@ -19,22 +19,25 @@
 </p>
 ---
 
-## 🐍 Contribution Snake
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://github.com/faizan-nazir-blue/faizan-nazir-blue/blob/output/github-snake.svg" />
 </p>
----
-
-## 🧠 SOC Approach
-
-- Alert → Validate → Investigate → Correlate → Conclude → Respond
-- Focus on reducing false positives
-- Emphasis on understanding attacker behavior over tool dependency
-- Continuous improvement through case-based learning
+<h2 align="center">🧠 SOC Approach</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=SOC+Analyst+Journey;Blue+Team+Mindset;Detection+Over+Assumption;Learning+Every+Day&center=true&color=bb86fc&width=500&height=50">
+
+Alert → Validate → Investigate → Correlate → Conclude → Respond
+
+<br><br>
+
+Focused on reducing false positives<br>
+Understanding attacker behavior over tool dependency<br>
+Consistency-driven learning mindset
+
 </p>
 
 ## 🧑‍💻 Professional Summary
@@ -70,22 +73,30 @@ I document my learning publicly to demonstrate consistency, methodology, and ana
 </p>
 ---
 
-## 🚀 Featured Projects
-
-### 🔍 Phishing URL Detection Tool
-- Detects malicious URLs using pattern & logic-based analysis
-- Focus on real-world detection mindset instead of just accuracy
-- Tech: Python
-
-### 📊 SOC Investigation Lab
-- Simulated alert triage scenarios
-- Includes: suspicious login, DNS anomaly, brute force patterns
-- Structured analysis approach (evidence → reasoning → conclusion)
-
-### 🌐 Networking & DNS Analysis Notes
-- Deep dive into DNS, IP, packet flow
-- Includes investigation mindset for SOC analysts
 ---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+
+
+🔍 <b>Phishing URL Detection Tool</b><br>
+Detects malicious URLs using logic-based analysis<br>
+Tech: Python
+
+<br><br>
+
+📊 <b>SOC Investigation Lab</b><br>
+Simulated alert triage & investigation workflows<br>
+Focus: Evidence → Analysis → Conclusion
+
+<br><br>
+
+🌐 <b>Networking & DNS Analysis</b><br>
+Deep analysis of DNS, IP, and packet behavior<br>
+Built for SOC-level understanding
+
+</p>
 
 ## 📂 Investigation & Analysis Work
 
