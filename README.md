@@ -37,6 +37,12 @@ Deep understanding of DNS behavior and packet flow for SOC use
 
 ---
 
+## 🐍  🟣 Contribution Activity
+
+![snake gif](https://raw.githubusercontent.com/faizan-nazir-blue/faizan-nazir-blue/output/github-snake.svg)
+
+--- 
+
 ## 🎯 Current Focus : 
 - SOC Analyst Level 1 Skill Development
 - Linux System Investigation
@@ -140,8 +146,4 @@ To work as a SOC Analyst where I can apply detection thinking, log analysis, and
 > Skills in cybersecurity come from repetition, not motivation.
 
 ---
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/faizan-nazir-blue/faizan-nazir-blue/output/github-snake.svg)
 
