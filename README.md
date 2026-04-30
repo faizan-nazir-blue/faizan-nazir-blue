@@ -1,4 +1,4 @@
-<h1 align="center">Faizan Nazir Dar</h1>
+<h1 align="center">Faizan Nazir </h1>
 <h3 align="center">SOC Analyst (Blue Team) | Cybersecurity Student</h3>
 
 <p align="center">
@@ -10,6 +10,23 @@
 </p>
 
 ---
+## 🧑‍💻 Professional Summary 
+Aspiring Security Operations Center (SOC) Analyst with structured hands-on learning in networking, Linux, and security monitoring. Currently building practical detection and investigation skills aligned with real SOC workflows.
+I document my learning publicly to demonstrate consistency, methodology, and analyst thinking process. 
+
+---
+
+## 🚀 Featured Projects
+
+🔍 **Phishing URL Detection Tool**  
+Python-based tool for identifying malicious URLs using detection logic  
+
+📊 **SOC Investigation Lab**  
+Simulated alert triage with structured investigation approach  
+
+🌐 **Networking & DNS Analysis**  
+Deep understanding of DNS behavior and packet flow for SOC use  
+
 ---
 
 ## 📈 Activity Graph
@@ -17,35 +34,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-nazir-blue&theme=react-dark&color=bb86fc&line=bb86fc&point=bb86fc" />
 </p>
----
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/faizan-nazir-blue/faizan-nazir-blue/blob/output/github-snake.svg" />
-</p>
-<h2 align="center">🧠 SOC Approach</h2>
-
-<p align="center">
-
-Alert → Validate → Investigate → Correlate → Conclude → Respond
-
-<br><br>
-
-Focused on reducing false positives<br>
-Understanding attacker behavior over tool dependency<br>
-Consistency-driven learning mindset
-
-</p>
-
-## 🧑‍💻 Professional Summary
-
-Aspiring Security Operations Center (SOC) Analyst with structured hands-on learning in networking, Linux, and security monitoring.  
-Currently building practical detection and investigation skills aligned with real SOC workflows.
-
-I document my learning publicly to demonstrate consistency, methodology, and analyst thinking process.
 
 ---
 
@@ -68,35 +56,10 @@ I document my learning publicly to demonstrate consistency, methodology, and ana
 | Security Concepts | SIEM Basics, Log Analysis, Detection Mindset |
 | Tools | Git, Wireshark, Bash |
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=linux,bash,python,java,c,git,github,wireshark" />
 </p>
 ---
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-
-
-🔍 <b>Phishing URL Detection Tool</b><br>
-Detects malicious URLs using logic-based analysis<br>
-Tech: Python
-
-<br><br>
-
-📊 <b>SOC Investigation Lab</b><br>
-Simulated alert triage & investigation workflows<br>
-Focus: Evidence → Analysis → Conclusion
-
-<br><br>
-
-🌐 <b>Networking & DNS Analysis</b><br>
-Deep analysis of DNS, IP, and packet behavior<br>
-Built for SOC-level understanding
-
-</p>
 
 ## 📂 Investigation & Analysis Work
 
@@ -114,7 +77,6 @@ System activity review, user behavior tracing, and persistence checks using nati
 Structured reference material used during investigations covering patterns, indicators, and analysis methodology.
 
 ---
----
 
 ## 📅 Learning Timeline
 
@@ -126,9 +88,12 @@ Structured reference material used during investigations covering patterns, indi
 ## 🎯 Career Objective
 
 To work as a SOC Analyst where I can apply detection thinking, log analysis, and investigation skills to identify and respond to real-world threats.
+
+---
+
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/faizan-nazir-96b7a4383">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
@@ -162,9 +127,21 @@ To work as a SOC Analyst where I can apply detection thinking, log analysis, and
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=faizan-nazir-blue&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-nazir-blue&theme=tokyonight" />
+</p>
 
 ## 💬 Analyst Mindset
 
 > Consistency in learning builds detection intuition.
 > Skills in cybersecurity come from repetition, not motivation.
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/faizan-nazir-blue/faizan-nazir-blue/blob/output/github-snake.svg)
 
