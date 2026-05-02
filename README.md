@@ -90,6 +90,7 @@ Structured reference material used during investigations covering patterns, indi
 - Day 2: IP Addressing, DNS, nslookup, ping, traceroute
 - Day 3: Ongoing SOC-focused learning (logs, detection, investigation)
 - Day 4:
+- Day 5:
 ---
 
 ## 🎯 Career Objective
