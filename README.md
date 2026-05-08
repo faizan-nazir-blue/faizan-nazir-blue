@@ -95,6 +95,8 @@ Structured reference material used during investigations covering patterns, indi
 - Day 7:
 - Day 8:
 - Day 9:
+- Day 10:
+- Day 11:
 ---
 
 ## 🎯 Career Objective
